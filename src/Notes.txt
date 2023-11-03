@@ -1,4 +1,4 @@
 https://www.youtube.com/watch?v=SqcY0GlETPk&ab_channel=ProgrammingwithMosh
 
 tsx and ts are essentially the same thing. However, tsx allows the use of jsx stuff. This makes tsx very useful for creating components.
-* Use tsx for something that will be a component.
+* Use tsx for something that will be a component. Really good for stuff that changes or has buttons
